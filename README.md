@@ -2,13 +2,9 @@
 
 An interactive web application built with **Streamlit**, **NetworkX**, and **Matplotlib** to demonstrate and visualize two searching: Breadth-First Search and Depth-First Search.
 
----
-
 # Live Demo
 
 Access it through streamlit app: **https://ai-labreport1.streamlit.app/**
-
----
 
 # Features
 
@@ -17,9 +13,7 @@ Access it through streamlit app: **https://ai-labreport1.streamlit.app/**
 - **Step-by-Step Execution:** Detailed trace table showing node expansions, queue/stack updates, and execution history.
 - **Custom Parameters:** Easily select start/goal nodes and customize search inputs.
 
----
-
-## 🛠️ Tech Stack
+# Tech Stack
 
 - **Frontend & Framework:** [Streamlit](https://streamlit.io/)
 - **Graph Modeling & Traversal:** [NetworkX](https://networkx.org/)
